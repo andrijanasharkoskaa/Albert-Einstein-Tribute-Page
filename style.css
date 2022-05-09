@@ -1,0 +1,78 @@
+html{
+
+    background-color: #d3d6de;
+}
+
+h1{
+    color: rgb(19, 111, 204);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+
+}
+
+h2{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-weight: lighter;
+    
+}
+
+img{
+    margin-left: 680px;
+    width: 200px;
+    height: 270px;
+}
+.subtitle1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: rgb(58, 56, 56);
+    font-size: 15px;
+    
+}
+
+.subtitle2{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    color: rgb(58, 56, 56);
+    font-size: 15px;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(58, 56, 56);
+    font-size: 14px;
+}
+
+.quote{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    text-indent: 35px;
+    color: rgb(58, 56, 56);
+    line-height: 10px;
+}
+
+.author{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    text-indent: 35px;
+    color: rgb(58, 56, 56);
+    line-height: 7px;
+}
+
+.read-more{
+    
+    color: rgb(180, 39, 180);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    text-indent: 10px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(80, 134, 168);
+    font-style: italic;
+}
